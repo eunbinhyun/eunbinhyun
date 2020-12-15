@@ -1,6 +1,6 @@
 ### Hi there, I'm Eun Bin! 👋
 
-![blog](http://img.shields.io/badge/-Tech%20Velog-655ced?style=flat&logo=github&link=https://velog.io/@eunbani)
+<a href="https://velog.io/@eunbani">![blog](http://img.shields.io/badge/-Tech%20Velog-655ced?style=flat&logo=github&link=https://velog.io/@eunbani)</a>
 ![username](https://img.shields.io/badge/user%20name-eunbinhyun-ff69b4)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunbinhyun%2Fhit-counter&count_bg=%2345DCE1&title_bg=%23D63BFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
