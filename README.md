@@ -1,7 +1,7 @@
 ### Hi there, I'm Eun Bin! 👋
 
 <a href="https://velog.io/@eunbani">![blog](http://img.shields.io/badge/-Tech%20Velog-655ced?style=flat&logo=github&link=https://velog.io/@eunbani)</a>
-![username](https://img.shields.io/badge/user%20name-eunbinhyun-ff69b4)
+<a href="https://eunbinhyun.github.io/portfolio/">![Portfolio](http://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=HTML5&logoColor=ffffff&link=https://eunbinhyun.github.io/portfolio/)</a>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunbinhyun%2Fhit-counter&count_bg=%2345DCE1&title_bg=%23D63BFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 [![eunbinhyun's github stats](https://github-readme-stats.vercel.app/api?username=eunbinhyun&theme=buefy)](https://github.com/eunbinhyun/github-readme-stats)
