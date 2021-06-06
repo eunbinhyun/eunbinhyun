@@ -1,8 +1,7 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=EunBin's%20Github&fontSize=70&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=EunBinHyun&fontSize=60&animation=blink)
 
-  
 ### Hi there, I'm Eun Bin! 👋
 
 <a href="https://velog.io/@eunbani">![blog](http://img.shields.io/badge/velog-5fc599?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@eunbani)</a>
