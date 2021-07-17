@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=EunBinHyun&fontSize=60&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=WELCOME&fontSize=60&animation=blink)
 
 ### Hi there, I'm Eun Bin! 👋
 
