@@ -5,8 +5,8 @@
 ### Hi there, I'm Eun Bin! 👋
 
 <a href="https://velog.io/@eunbani">![blog](http://img.shields.io/badge/velog-5fc599?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@eunbani)</a>
-<a href="https://eunbinhyun.github.io/portfolio/">![Portfolio](http://img.shields.io/badge/-🤍%20Portfolio-ff69b4?style=flat-square&link=https://eunbinhyun.github.io/portfolio/)</a>
-  
+<a href="https://binido.notion.site/binido/Eun-Bin-s-Portfolio-b624d8218829404fac206d5993a5b9e5
+">![Portfolio](http://img.shields.io/badge/-🤍%20Portfolio-ff69b4?style=flat-square&link=https://eunbinhyun.github.io/portfolio/)</a>
 
 
 ### Skills and Tools ✨
